@@ -46,3 +46,6 @@ market_report_*.csv
 # 系统文件
 .DS_Store
 Thumbs.db
+
+# 其他
+py/SCRIPT/*
